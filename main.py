@@ -1,9 +1,7 @@
 """
- Proyecto final
  Fecha: 10/6/2021
  Autores:
  Julio Salazar
- Joshua Alarcon
  Programa: inventario
 """
 import os
