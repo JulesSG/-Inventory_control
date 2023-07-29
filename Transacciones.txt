@@ -1,0 +1,19 @@
+Proximidad$S1$Ingresar pieza$Realizada$1000$22/06/2021-22:39
+Temperatura$S2$Ingresar pieza$Realizada$1000$22/06/2021-22:40
+Bluetooth$M1$Retirar pieza$Realizada$1$22/06/2021-22:40
+RF$M3$Ingresar pieza$Realizada$2000$22/06/2021-22:54
+-$-$Cierre del programa$Realizada$0$22/06/2021-22:54
+Proximidad$S1$Ingresar pieza$Realizada$100$22/06/2021-23:02
+Proximidad$S1$Ingresar pieza$Realizada$100$22/06/2021-23:02
+-$-$Cierre del programa$Realizada$0$22/06/2021-23:02
+-$-$Cierre del programa$Realizada$0$22/06/2021-23:12
+-$-$Cierre del programa$Realizada$0$22/06/2021-23:13
+-$-$Cierre del programa$Realizada$0$22/06/2021-23:15
+Proximidad$S1$Ingresar pieza$Realizada$1000$22/06/2021-23:15
+-$-$Cierre del programa$Realizada$0$22/06/2021-23:16
+Proximidad$S1$Ingresar pieza$Realizada$2$22/06/2021-23:58
+-$-$Cierre del programa$Realizada$0$23/06/2021-00:02
+Wi-Fi$M2$Ingresar pieza$Realizada$25$23/06/2021-00:03
+Hembra-Macho$J2$Retirar pieza$Realizada$100$23/06/2021-00:03
+Macho-Macho$J1$Retirar pieza$Realizada$200$23/06/2021-00:03
+-$-$Cierre del programa$Realizada$0$23/06/2021-00:08

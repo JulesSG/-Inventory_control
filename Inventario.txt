@@ -1,0 +1,12 @@
+S1/Sensores/Proximidad/2264/
+S2/Sensores/Temperatura/1002/
+S3/Sensores/Humedad/5/
+J1/Jumpers/Macho-Macho/0/
+J2/Jumpers/Hembra-Macho/100/
+J3/Jumpers/Hembra-Hembra/200/
+M1/Modulos/Bluetooth/7/
+M2/Modulos/Wi-Fi/28/
+M3/Modulos/RF/2001/
+A1/Actuadores/MotorDC/10/
+A2/Actuadores/ServoMotor/20/
+A3/Actuadores/StepperMotor/9/
